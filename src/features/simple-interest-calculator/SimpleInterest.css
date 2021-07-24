@@ -1,0 +1,12 @@
+#SimpleInterestCalculator {
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+#SimpleInterestCalculator input {
+  display: block;
+}
+
+.form-block {
+  margin-bottom: 20px;
+}
